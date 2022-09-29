@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshuparmar20
+- 👋 Hi, I’m Himanshu Parmar
 - 👀 I’m interested in ROS 
 - 🌱 I’m currently learning ROS neotic
 - 
